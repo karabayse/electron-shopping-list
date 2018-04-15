@@ -1,0 +1,25 @@
+{
+  "name": "electron-shopping-list",
+  "version": "1.0.0",
+  "description": "Electron shopping list",
+  "main": "client.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karabayse/electron-shopping-list.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Kara Bayse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karabayse/electron-shopping-list/issues"
+  },
+  "homepage": "https://github.com/karabayse/electron-shopping-list#readme",
+  "dependencies": {
+    "electron": "^1.8.4"
+  }
+}
